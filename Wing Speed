@@ -1,3 +1,3 @@
-javascript:(function()%7Bbird._animation.speed%20%3D%20insertnumberhere%7D)()%3B
+javascript:(function()%7Bbird._animation.speed %3D insertnumberhere%7D)()%3B
 
 Change "insertnumberhere" with a speed value from at least 1. Doesn't look like you can convert back. Doesn't affect gameplay.
