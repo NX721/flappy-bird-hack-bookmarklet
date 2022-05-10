@@ -1,1 +1,4 @@
 javascript:(function()%7Bcounter.text %3D insertpointnumberhere%3BcounterOutline.text%3Dinsertsamenumberhere%3Brd-(counter.text*1.5)%2B4.82%3B%7D)()%3B
+
+
+Replace "insertnumberhere" with number of points you want and "insertsamenumberhere" with the same number.
