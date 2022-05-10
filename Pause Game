@@ -1,0 +1,4 @@
+javascript:(function()%7Bdead%20%3D%20true%7D)()%3B
+
+To unpause:
+javascript:(function()%7Bdead%20%3D%20false%7D)()%3B
