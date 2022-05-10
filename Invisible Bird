@@ -1,1 +1,5 @@
 javascript:(function()%7Bbird.visible%20%3D%20false%7D)()%3B
+
+To make visible, paste this:
+
+javascript:(function()%7Bbird.visible%20%3D%20true%7D)()%3B
