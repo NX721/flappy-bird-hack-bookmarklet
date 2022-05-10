@@ -1,0 +1,6 @@
+javascript:(function()%7Bbird.regY%20%3D%2090%7D)()%3B
+
+Makes it so that you automatically dive down
+
+Disable:
+javascript:(function()%7Bbird.regY%20%3D%200%7D)()%3B
