@@ -1,0 +1,3 @@
+javascript:(function()%7Bbird.scaleX%20%3D%201.5%0Abird.scaleY%20%3D%201.5%7D)()%3B
+
+Enlarges bird to a playable difficult size.
